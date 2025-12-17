@@ -1,0 +1,8 @@
+/* For Table of Contents */
+#TOC ul li {
+  margin: 5px 0;
+}
+
+#quarto-content {
+  margin-top: 100px;
+}
